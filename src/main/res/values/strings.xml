@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task 2.1</string>
+    <string-array name="options">
+        <item>Metre</item>
+        <item>Celsius</item>
+        <item>Kilograms</item>
+
+    </string-array>
+</resources>
